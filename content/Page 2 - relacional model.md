@@ -7,7 +7,7 @@ Note: The model must have enough details for a developer to be able to build the
 1. Data Modeling: Physical modeling consists of choosing a DBMS and creating the project (Logical Modeling) in this system. The Entities and Relationships Model is an abstract model whose purpose is to describe, in a conceptual way, the data to be used in an Information System or that belong to a domain.
 
 
-* Data Models:
+* Data Models;
 * Hierarchical;
 * Network;
 * Relational;
@@ -29,7 +29,7 @@ Data integrity, for accuracy and consistency.
 ## Components of a Relational Database:
 
  
-Table: Basic component of an RDBMS system. Stores necessary data about something in the real world, such as customers, orders or products. also called a relationship. A relational database can have one or more tables.
+1. Table: Basic component of an RDBMS system. Stores necessary data about something in the real world, such as customers, orders or products. also called a relationship. A relational database can have one or more tables.
 
 
 1. Tuple: Or line / record, represents data required for a particular occurrence of a particular entity. For example, the data for a specific customer. Each row in a table must be identified by a primary key, so that there is no duplication of records.
@@ -58,21 +58,21 @@ Others: Indices, SP, Triggers, etc.
 
 ## MER components
 
-* Entity: Something significant, about which we must have information. As examples, we have customers, employees, orders and products.
+1. Entity: Something significant, about which we must have information. As examples, we have customers, employees, orders and products.
 
-* Attributes: Something that describes or qualifies an entity. For example, the entity * client * has attributes that describe his name, address, telephone, identification number, among others.
+1. Attributes: Something that describes or qualifies an entity. For example, the entity * client * has attributes that describe his name, address, telephone, identification number, among others.
 
-* Relationship: This is an association named between entities, with a degree of association. For example, customers can be associated with orders.
+1. Relationship: This is an association named between entities, with a degree of association. For example, customers can be associated with orders.
 
-## Conventions for modeling entities, relationships and attributes
+## Conventions for modeling entities, relationships, attributes and cardinality
 
-* Entities: Unique, singular name; Caps Lock;
+1. Entities: Unique, singular name; Caps Lock;
 
-* Attributes: Name in the singular; lowercase; mandatory attributes marked with '*'; unique identifier marked with '#'.
+1. Attributes: Name in the singular; lowercase; mandatory attributes marked with '*'; unique identifier marked with '#'.
 
-* Relationship: Identifier name (verb); optionality ("must be" or "can be"); degree or cardinality ('one and only one', or 'one or more').
+1. Relationship: Identifier name (verb); optionality ("must be" or "can be"); degree or cardinality ('one and only one', or 'one or more').
 
-* Cardinality: It defines the degree of relationship between two entities or tables. In the relational model, we can have the following relationship levels: 1: N, N: N, 1: 1.
+1. Cardinality: It defines the degree of relationship between two entities or tables. In the relational model, we can have the following relationship levels: 1: N, N: N, 1: 1.
 
 [Data Modeling Course](https://www.youtube.com/watch?v=hGstS10kCPM&list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD&index=2)
 
