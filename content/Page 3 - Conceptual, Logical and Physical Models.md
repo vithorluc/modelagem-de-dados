@@ -67,17 +67,17 @@ At this level, details of the implementation do not appear, however it is detail
 The main steps in the development of a DB are:
 
 - Requirements specification and analysis.
- - The requirements are documented.
+  - The requirements are documented.
 
 - Conceptual design
- - Based on requirements
+  - Based on requirements
 
 - Logical design
- - Expressed in a data model, such as the relational one.
+  - Expressed in a data model, such as the relational one.
 
 - Physical project
- - Specifications for storing and accessing the database.
- - DB implementation, insertion of real data and maintenance.
+  - Specifications for storing and accessing the database.
+  - DB implementation, insertion of real data and maintenance.
 
 
 ## Modeling tasks
