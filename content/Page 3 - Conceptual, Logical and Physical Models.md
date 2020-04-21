@@ -26,7 +26,7 @@ At this level, details of the implementation do not appear, however it is detail
 ## Logical model
 
 
-! [Image of Example] (images/exampleofMER.jpg)
+(images/exampleofMER.jpg)
 
 * A logical model has concepts that users are able to understand, while not being far from the physical model of the database.
 
@@ -38,7 +38,7 @@ At this level, details of the implementation do not appear, however it is detail
 ## Physical model
 
 
-! [Image of Example] (images/estructuretable.png)
+(images/estructuretable.png)
 
 * **From a logical model** we derive **the physical model**, which details the physical structure components of the database, including tables, fields, types of values, etc.
 
@@ -48,7 +48,7 @@ At this level, details of the implementation do not appear, however it is detail
 ## Three-tier architecture
 
 
-! [Image of Example] (images/arqlevels.png)
+(images/arqlevels.png)
 
 
 ## Database schema
