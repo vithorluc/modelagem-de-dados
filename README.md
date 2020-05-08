@@ -1,2 +1,2 @@
-# data-modeling
-An individual repository to learn about data modeling and database. 
+# modelagem-de-dados
+Um repositório individual para aprender sobre modelagem de dados e banco de dados.
