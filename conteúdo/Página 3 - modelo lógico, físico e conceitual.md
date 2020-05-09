@@ -2,6 +2,7 @@
 
 ## Classificamos o processo de modelagem em três níveis:
 
+
 1. Modelo conceitual (alto nível) - MCD
 
 1. Modelo Lógico - MLD
@@ -26,8 +27,6 @@ Nesse nível, os detalhes da implementação não aparecem, no entanto, é detal
 ## Modelo lógico
 
 
-(images / exampleofMER.jpg)
-
 * Um modelo lógico possui conceitos que os usuários são capazes de entender, embora não estejam muito longe do modelo físico do banco de dados.
 
 * Nesse nível, o projeto é independente do DBMS.
@@ -38,14 +37,13 @@ Nesse nível, os detalhes da implementação não aparecem, no entanto, é detal
 ## Modelo físico
 
 
-(images / estructuretable.png)
-
 * **De um modelo lógico** derivamos **do modelo físico**, que detalha os componentes da estrutura física do banco de dados, incluindo tabelas, campos, tipos de valores, etc.
 
 * Ao criar o modelo físico, podemos começar a implementar o banco de dados usando o DBMS mais adequado.
 
 
 ## Arquitetura de três camadas
+
 
 * Modelo em três camadas (3-Tier), derivado do modelo 'n' camadas, recebe esta denominação quando um sistema cliente-servidor é desenvolvido retirando-se a camada de negócio do lado do cliente. O desenvolvimento é mais demorado no início comparando-se ao modelo em duas camadas porque é necessário dar suporte a uma maior quantidade de plataformas e ambientes diferentes. Em contrapartida, o retorno vem em forma de respostas mais rápidas nas requisições, tanto em sistemas que rodam na Internet ou em intranet, e mais controle no crescimento do sistema.
 
@@ -64,6 +62,8 @@ Nesse nível, os detalhes da implementação não aparecem, no entanto, é detal
 
 
 ## Etapas do desenvolvimento do banco de dados
+
+
 As principais etapas no desenvolvimento de um banco de dados são:
 
 - Especificação e análise de requisitos.
@@ -82,6 +82,7 @@ As principais etapas no desenvolvimento de um banco de dados são:
 
 ## Tarefas de modelagem
 
+
 As tarefas de modelagem devem ser executadas para que seja possível executar a modelagem de dados e o design funcional do banco de dados:
 
 * Identifique os tipos de entidades
@@ -97,6 +98,8 @@ As tarefas de modelagem devem ser executadas para que seja possível executar a 
 * Desnormalizar para aumentar o desempenho
 
 ## MER
+
+
 Após o levantamento dos requisitos, eles são transformados em um **Modelo de Entidade-Relacionamento** (MER), que consiste nos seguintes elementos:
 
 * Entidades

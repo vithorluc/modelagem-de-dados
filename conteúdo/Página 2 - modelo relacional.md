@@ -74,4 +74,4 @@ Outros: Índices, SP, Triggers, etc.
 
 1. **Cardinalidade:** Define o grau de relacionamento entre duas entidades ou tabelas. No modelo relacional, podemos ter os seguintes níveis de relacionamento: 1: N, N: N, 1: 1.
 
-[Curso de modelagem de dados] (https://www.youtube.com/watch?v=hGstS10kCPM&list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD&index=2)
+[Curso de modelagem de dados](https://www.youtube.com/watch?v=hGstS10kCPM&list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD&index=2)

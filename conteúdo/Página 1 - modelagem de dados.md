@@ -36,4 +36,4 @@ Ex.: Listas de clientes com seus números de CPF, pedidos;
 1. Autenticação e autorização de acesso
 1. Restrição de integridade
 
-[Curso de modelagem de dados] (https://www.youtube.com/watch?v=Q_KTYFgvu1s&list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD&index=1)
+[Curso de modelagem de dados](https://www.youtube.com/watch?v=Q_KTYFgvu1s&list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD&index=1)
