@@ -67,17 +67,17 @@ Nesse nível, os detalhes da implementação não aparecem, no entanto, é detal
 As principais etapas no desenvolvimento de um banco de dados são:
 
 - Especificação e análise de requisitos.
-  - Os requisitos estão documentados.
+  -Os requisitos estão documentados.
 
 - Design conceptual
-  - Com base nos requisitos
+  -Com base nos requisitos
 
 - Design lógico
-  - Expressa em um modelo de dados, como o relacional.
+  -Expressa em um modelo de dados, como o relacional.
 
 - Projeto físico
-  - Especificações para armazenar e acessar o banco de dados.
-  - Implementação de banco de dados, inserção de dados reais e manutenção.
+  -Especificações para armazenar e acessar o banco de dados.
+  -Implementação de banco de dados, inserção de dados reais e manutenção.
 
 
 ## Tarefas de modelagem
